@@ -1,0 +1,1 @@
+This project leverages OpenCV for real-time face detection and recognition using Python. Through camera access, the code identifies faces by employing Haar cascades and employs a pre-trained model to recognize individuals based on their unique facial features. The project aims to provide a robust framework for facial recognition in diverse settings.
